@@ -1,0 +1,14 @@
+{
+  "name": "please-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "please-js.html",
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "dependencies": {
+    "polymer": "*",
+    "PleaseJS": "ibarrajo/PleaseJS"
+  }
+}
